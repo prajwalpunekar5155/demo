@@ -101,7 +101,7 @@ function Users() {
         <NavBar />
         <div className="page-wrapper">
           <div className="content">
-            <h4 className="page-title">Category List</h4>
+            <h4 className="page-title">Category list</h4>
             <div className="card">
               <div className="card-header">
                 <div className="d-flex justify-content-between align-items-center">
